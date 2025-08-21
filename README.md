@@ -94,7 +94,7 @@
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=ZiyaSalar&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" height="180px"/>
 <br>
-
+<br><br>
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaSalar&theme=algolia&layout=compact&bg_color=1e2b3c&border_color=B2E0FF&border_radius=20" height="180px"/>
 
