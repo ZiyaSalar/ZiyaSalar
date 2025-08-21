@@ -93,12 +93,11 @@
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=ZiyaSalar&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" height="180px"/>
+<br>
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaSalar&theme=algolia&layout=compact&bg_color=1e2b3c&border_color=B2E0FF&border_radius=20" height="180px"/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyaSalar&theme=algolia&background=1e2b3c&border=B2E0FF&stroke=95ccff&ring=95ccff&fire=95ccff&currStreakNum=95ccff&currStreakLabel=95ccff&sideNums=95ccff&sideLabels=95ccff&dates=95ccff&border_radius=20" height="180px"/>
 
 </div>
 
@@ -133,6 +132,4 @@
 <h5 align="center">اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ۝</h5>
 <h6 align="center"><small><i>Recite in the name of your Lord who created.</i></h6>
 
-
----
 
