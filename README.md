@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Ziya Salar
 
-<!--
-**ZiyaSalar/ZiyaSalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer and programmer from India 🚀
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [MyProject](link)
+- 🌱 I’m currently learning **DSA, System Design**
+- 💬 Ask me about **C++, Java, MERN stack**
+- 📫 How to reach me: [ziya@example.com](mailto:ziya@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/your-link)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/your-link)
+
+### ⚡ Languages and Tools:
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b)
+![Java](https://img.shields.io/badge/-Java-red?logo=java)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
